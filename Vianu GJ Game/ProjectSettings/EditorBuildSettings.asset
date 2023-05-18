@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 01155e2e5173dbf4395f8484abefccb3
+  - enabled: 1
+    path: Assets/Scenes/PtolemeuRoom.unity
+    guid: 935862c3eadca3340b6261f49c45f6ec
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 4c4aa1baac09c514bb755027e8c6f12c
+  - enabled: 1
+    path: Assets/Scenes/Labyrinth.unity
+    guid: b2872778bd354a44c95702286f274f78
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 5ddbf66601d2da84e82d7abace8fb811
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a9b1976319820f4468533d1ecfbf123c
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: a9bf8f8dffd193740bbfa6973265d87f
+  m_configObjects: {}

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: becde6e895b46d44d90ff5577ea70271
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cormorant Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 233c45d825b2362488f07e6da3cb4e61, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
