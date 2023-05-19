@@ -16,7 +16,6 @@ public class Stamina : MonoBehaviour
     [Space]
 
     [SerializeField] private float tiredMark = 50.0f;
-    [SerializeField] private float exhaustCooldown = 6f;
 
     [Space]
 
