@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8475529496875856326
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.03070367
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.02617326
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.024326686
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.007
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.263
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.017
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3820810127951259293, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: da3635d83d1c7204888bb69ec2c56826, type: 2}
+    - target: {fileID: -305091885687274788, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d1bc66ec23492c64fa2c0a39f499bbef, type: 2}
+    - target: {fileID: 919132149155446097, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+      propertyPath: m_Name
+      value: Wooden_Door_with_hand
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+--- !u!1 &7320408727322075947 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -8068073526183931155, guid: f3cc131f14f81484a8ca28cc956f09c0, type: 3}
+  m_PrefabInstance: {fileID: 8475529496875856326}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2061883696
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7320408727322075947}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.5822, y: 95.148994, z: 51.201}
+  m_Center: {x: 0, y: -0.4549999, z: 0}
